@@ -14,8 +14,10 @@
    - Special classes (Abstract, Data class)
    - Use cases
 4. Modularizing
+5. Date-time
+6. Logging
 
-## Data Loading
+## Data Loading and Manipulation
 1. SQL data
 2. CSV data
 3. Numpy
