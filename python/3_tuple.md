@@ -5,7 +5,7 @@ Tuples are designed to store heterogeneous data stored under contiguous memory.
 Tuples are immutable and indexed data.
 
 ###### Defining Tuple
-```
+```python
 # Tuple by comma
 a = 1, # (1,)
 a = 1, 2, "cat" # (1, 2, "cat")
