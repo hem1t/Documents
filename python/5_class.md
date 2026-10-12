@@ -2,21 +2,30 @@
 
 ###### Attributes
 **Class Attribute**
+
 **Instance Attribute**
 
 ###### Types of methods
  **Instance method**
+
  **Class method** 
+
  **Static method**
 
 
 ###### Types of Class
 **Dataclass**
+
 **Static Class**
+
 **Singleton Class**
+
 **Nested Class**
+
 **Enum Class**
+
 **Meta Class**
+
 **Mixins**
 
 
